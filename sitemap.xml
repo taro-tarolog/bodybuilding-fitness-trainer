@@ -20,13 +20,13 @@
   </url>
   <url>
     <loc>https://bodybuilding-fitness-trainer.vercel.app/pilates/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bodybuilding-fitness-trainer.vercel.app/fitnes-trener-dlya-muzhchin-spb/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -129,6 +129,12 @@
   <url>
     <loc>https://bodybuilding-fitness-trainer.vercel.app/blog/skolko-raz-v-nedelyu-zanimatsya-pilatesom/</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bodybuilding-fitness-trainer.vercel.app/blog/pilates-dlya-spiny-i-osanki/</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
