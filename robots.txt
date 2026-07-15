@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://bodybuilding-fitness-trainer.vercel.app/sitemap-new.xml
 Sitemap: https://bodybuilding-fitness-trainer.vercel.app/sitemap.xml
